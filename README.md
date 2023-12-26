@@ -17,7 +17,7 @@ Welcome to the Apple Landing Page Clone project! This React application replicat
 
 ## Demo
 
-[Link to Live Demo](https://apple-replica-delta.vercel.app/) <!-- Add the actual link to the deployed application -->
+[Link to Live Demo](https://apple-replica-delta.vercel.app/)
 
 ## Screenshot
 
