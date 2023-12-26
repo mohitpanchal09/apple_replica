@@ -1,4 +1,4 @@
-
+<img width="1440" alt="Screenshot 2023-10-05 at 12 59 10 PM" src="https://media.discordapp.net/attachments/1134172030699323465/1189290796093034706/Screenshot_2023-12-27_at_1.02.26_AM.png?ex=659da05d&is=658b2b5d&hm=cc663818870086b387744c7c2328dc78b90ac52735246f90975b014263495701&=&format=webp&quality=lossless&width=2004&height=1054">
 ```markdown
 # Apple Landing Page Clone
 
